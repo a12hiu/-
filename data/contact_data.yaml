@@ -1,0 +1,10 @@
+test_add_contact:
+  test_add_contact_001:
+    name: "xiaoming"
+    phone: "188"
+  test_add_contact_002:
+    name: "xiaohong"
+    phone: "177"
+  test_add_contact_003:
+    name: "xiaoqiang"
+    phone: "166"
